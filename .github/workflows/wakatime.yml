@@ -13,7 +13,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN:      ${{ secrets.GH_TOKEN }}
-          repository:    ${{ github.repository }}
           # 下面这些是可选显示项，按需开启
           show_loc_chart:      true
           show_projects:       true
