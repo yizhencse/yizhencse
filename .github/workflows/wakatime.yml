@@ -2,15 +2,30 @@ name: Waka Readme
 
 on:
   schedule:
-    # Runs at 12am IST
-    - cron: '30 18 * * *'
+    # 每天 UTC 16:00，也就是每天 香港时间 00:00
+    - cron: '0 16 * * *'
   workflow_dispatch:
 jobs:
   update-readme:
-    name: Update Readme with Metrics
     runs-on: ubuntu-latest
     steps:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN:      ${{ secrets.GH_TOKEN }}
+          repository:    ${{ github.repository }}
+          # 下面这些是可选显示项，按需开启
+          show_loc_chart:      true
+          show_projects:       true
+          show_editors:        false
+          show_timezone:       true
+          show_commit:         true
+          show_language:       true
+          show_lines_of_code:  true
+          show_language_per_repo: false
+          show_days_of_week:   true
+          show_profile_views:  false
+          show_short_info:     true
+          show_updated_date:   true
+          show_total_code_time: true
+          section_name:        "📊 My Coding Stats"
