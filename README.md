@@ -35,11 +35,10 @@ Sunday                   16 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   2 hrs 19 mins       █████████████████████████   98.97 % 
-Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.03 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    2 hrs 20 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -59,6 +58,6 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yizhencse/yizhencse/main/assets/bar_graph.png)
 
 
- Last Updated on 20/07/2025 18:51:44 UTC
+ Last Updated on 21/07/2025 18:56:08 UTC
 <!--END_SECTION:waka-->
 
