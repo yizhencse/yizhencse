@@ -4,7 +4,7 @@
 Hi, there
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -35,14 +35,14 @@ Sunday                   16 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Python                   29 hrs 21 mins      ███████████████████████░░   93.83 % 
-CSV                      1 hr 49 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.85 % 
+Python                   29 hrs 9 mins       ████████████████████████░   94.29 % 
+CSV                      1 hr 39 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
 Git Config               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Linux                    31 hrs 17 mins      █████████████████████████   100.00 % 
+Linux                    30 hrs 55 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -62,6 +62,6 @@ C                        1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/yizhencse/yizhencse/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2025 18:50:21 UTC
+ Last Updated on 20/08/2025 18:51:45 UTC
 <!--END_SECTION:waka-->
 
